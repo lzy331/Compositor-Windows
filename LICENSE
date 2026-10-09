@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This is the Windows port (Compositor-Windows). It is a derivative work of
-Compositor by Wonder Assembly LLC, https://github.com/robbietilton/Compositor,
-and is distributed under the same MIT License above. The original copyright
-notice and this permission notice are retained as the license requires.
