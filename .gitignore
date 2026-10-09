@@ -1,0 +1,32 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+CMakeSettings.json
+
+# Qt
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.qm
+
+# Windows
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
+*.a
+*.lib
+Thumbs.db
+desktop.ini
+
+# Scratch
+*.comp
